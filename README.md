@@ -1,2 +1,1 @@
-# kahoot_flood
-A tool to flood kahoot lobbies
+# Have you ever had that really annoying teacher that makes the class use their real names in kahoots? Well I have the perfect tool for you! I created a program to flood a boring kahoot game with bots, gradually draining the teacher's will to live! It can be downloaded [here](https://github.com/jptr218/kahoot_flood/raw/main/kahoot_flood.exe).
